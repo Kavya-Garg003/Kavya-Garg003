@@ -18,12 +18,6 @@ Molecule generation using a 2-layer stacked LSTM trained on ZINC250K (249K SMILE
 ### [Agentic Stock Analysis](https://github.com/Kavya-Garg003/Agentic-AI-Stock-Analysis)
 6-agent Python pipeline scoring stocks on 15+ CANSLIM metrics via DeepSeek API. 93% signal accuracy. Real-time Streamlit dashboard with live feeds and watchlist management.
 
-### [Cross-Lingual Scam Detection](https://github.com/Kavya-Garg003/Cross-Lingual-Scam-Campaign-Discovery-via-Multilingual-Semantic-Clustering)
-Clustered 25,411 messages across Tamil, Kannada, Hindi, Telugu, and English into 123 fraud campaigns using MiniLM embeddings + HDBSCAN + UMAP. Silhouette 0.73 vs 0.37 TF-IDF baseline.
-
-### [Fetal Anomaly Detection](https://github.com/Kavya-Garg003) *(IEEE EMBS internship)*
-U-Net and CNN models on 4,000+ fetal ultrasound images. Dice > 0.85, AUC-ROC > 0.90. Grad-CAM++ and Integrated Gradients for interpretability.
-
 ---
 
 ## Research
